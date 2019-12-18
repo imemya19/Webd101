@@ -1,0 +1,81 @@
+body{
+height:100%;
+margin:0px;
+}
+html{
+height:100%;
+margin:0px;
+	
+}
+
+
+
+.navg{
+font-family: garamond;
+font-weight: 1600;	
+padding:15px;
+word-spacing: 0.5em;
+background-color: black;
+background-size:cover;
+overflow:hidden;
+
+}
+
+.navg a{
+float:left;	
+color:#BDB76B	;
+text-align:center;
+padding: 14px 32px;
+text-decoration:none;
+font-size:17px;
+}
+
+.navg a:hover{
+background-color:white	;
+color:black;
+}
+
+.navg a.active {
+background-color: #4CAF50;
+color: white;
+}
+
+
+.sect1o1{
+font-size: 80px;
+font-family: garamond;
+font-weight:800;	
+text-align: center;
+margin-bottom:0px;	
+padding-top:100px;
+padding-left:250px;
+padding-right:250px;
+padding-bottom:50px;
+background-color: black;
+color:gray;	
+}
+
+
+.skillone{
+background-color: black;
+color:gray;		
+text-align: left;
+font-size: 30px;
+font-family: cursive;
+	
+}
+
+.skilltwo{
+font-size: 30px;
+font-family: garamond;
+background-size:cover;
+padding-top:100px;
+	
+background-image:url("https://images.pexels.com/photos/1076039/pexels-photo-1076039.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+margin:0px;	
+text-align:center;
+color:#E9967A	;
+font-weight:400;	
+height:100%;
+}
+

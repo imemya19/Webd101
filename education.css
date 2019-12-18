@@ -1,0 +1,67 @@
+body{
+height:100%;
+margin:0px;
+}
+html{
+height:100%;
+margin:0px;
+	
+}
+
+
+.navg{
+font-family: garamond;
+font-weight: 1600;	
+padding:15px;
+word-spacing: 0.5em;
+background-color: black;
+background-size:cover;
+overflow:hidden;
+
+}
+
+.navg a{
+float:left;	
+color:#BDB76B	;
+text-align:center;
+padding: 14px 32px;
+text-decoration:none;
+font-size:17px;
+}
+
+.navg a:hover{
+background-color:white	;
+color:black;
+}
+
+.navg a.active {
+background-color: #4CAF50;
+color: white;
+}
+
+
+.sect1o1{
+font-size: 80px;
+font-family: garamond;
+font-weight:800;	
+text-align: center;
+margin-bottom:0px;	
+padding-top:100px;
+
+padding-bottom:50px;
+background-color: black;
+color:gray;	
+}
+
+.eduone{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZ5hU-EeGeE41d0maq0VsS1GM5pOq7fOHVyJAE7TltUtwjK4x&s");
+color:#A0522D		;
+text-align: center;				
+font-family: garamond;
+font-weight: 400;	
+font-size: 30px;
+margin-top:0px;
+padding-top:80px;
+height:100%;	
+}	
+
